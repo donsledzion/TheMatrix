@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1591999925 source:c:\users\lenovo\documents\+++studia+++\informatyka\ii semestr\techniki programowania\projekt\do wys³ania\thematrix\functions.cpp
+	<iostream>
+	"functions.h"
+	<string>
+	<iomanip>
+
+1591999910 c:\users\lenovo\documents\+++studia+++\informatyka\ii semestr\techniki programowania\projekt\do wys³ania\thematrix\functions.h
+
+1591999902 source:c:\users\lenovo\documents\+++studia+++\informatyka\ii semestr\techniki programowania\projekt\do wys³ania\thematrix\matrix.cpp
+	<iostream>
+	<iomanip>
+	"Matrix.h"
+	"functions.h"
+
+1591997542 c:\users\lenovo\documents\+++studia+++\informatyka\ii semestr\techniki programowania\projekt\do wys³ania\thematrix\matrix.h
+
+1591999758 source:c:\users\lenovo\documents\+++studia+++\informatyka\ii semestr\techniki programowania\projekt\do wys³ania\thematrix\thematrix.cpp
+	"Matrix.h"
+
